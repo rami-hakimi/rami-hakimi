@@ -1,3 +1,4 @@
+![Banner](./Photo.png)
 # Hi, I'm Rami 👋
 
 Computer Science student at **Vrije Universiteit Amsterdam**.
