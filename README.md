@@ -5,7 +5,7 @@ Computer Science student at **Vrije Universiteit Amsterdam**.
 🌍 Based in Amsterdam  
 🎓 B.Sc. Computer Science (ongoing)
 
-----------
+-------------
 
 ## 🚀 Skills
 
